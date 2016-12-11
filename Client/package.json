@@ -1,0 +1,18 @@
+{
+	"main": "../lib/HTML/main.html",
+	"name": "python-node client test",
+	"description": "demo app of node-webkit",
+	"keywords": ["demo", "node-webkit"],
+	"window": {
+		"title": "python-node client test",
+		"icon": "../icon.png",
+		"resizable": true,
+		"toolbar": true,
+		"frame": true,
+		"position": "mouse"
+	},
+	"webkit": {
+		"plugin": false
+	},
+	"single-instance": true
+}
